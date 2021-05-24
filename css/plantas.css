@@ -1,0 +1,39 @@
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    margin: 50px 10% 50px;
+}
+
+h1 {
+	font-family: "Times New Roman";
+	color: limegreen;
+    font-size: 28px;
+}
+
+blockquote {
+    margin-left: 60px;
+}
+
+h2 {
+	font-family: "Times New Roman";
+	color: limegreen;
+    font-size: 22px;
+}
+
+p {
+	text-align: justify;
+}
+
+div {
+    border: 3px solid limegreen;
+    padding: 10px;
+    background-image: url(../imagens/fundo.png);
+}
+
+img {
+    display: block;
+    width: 300px;
+    border: 8px solid limegreen;
+    margin-left: auto;
+    margin-right: auto
+}
