@@ -12,6 +12,7 @@ h1 {
 
 blockquote {
     margin-left: 60px;
+    font-style: italic;
 }
 
 h2 {
@@ -27,7 +28,7 @@ p {
 div {
     border: 3px solid limegreen;
     padding: 10px;
-    background-image: url(../imagens/fundo.png);
+    background-image: url(../images/fundo.png);
 }
 
 img {
