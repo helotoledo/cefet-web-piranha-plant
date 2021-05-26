@@ -1,0 +1,15 @@
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    margin: 50px 10% 50px;
+}
+
+h1 {
+	font-family: "Times New Roman";
+	color: limegreen;
+    font-size: 28px;
+}
+
+p {
+	text-align: justify;
+}
